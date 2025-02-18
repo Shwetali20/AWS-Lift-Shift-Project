@@ -21,3 +21,5 @@ Here,we used Mysql DB sql dump file:
 /src/main/resources/db_backup.sql
 db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 mysql -u <user_name> -p accounts < db_backup.sql
+![Screenshot (17)](https://github.com/user-attachments/assets/9e426e2d-e3bb-485f-a6a7-d05ce1338104)
+![Screenshot (17)](https://github.com/user-attachments/assets/510abc32-1533-40d1-be19-33553e1fea57)
